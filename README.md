@@ -1,7 +1,8 @@
 
 # Basketball Game
 
-Angry Bird style projectile motion based game made in HTML5 Canvas and Javascript. 
+Angry Bird style projectile motion based game made in HTML5 Canvas and Javascript.
+Playable in Web Browser (preferably Chrome or Chromium) of a computer as well as any touch enabled device.
 <br><br>
 
 
