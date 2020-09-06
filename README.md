@@ -24,4 +24,4 @@ Playable in Web Browser (preferably Chrome or Chromium) of a computer as well as
 
 ### A Short Story about this Game:
 
-This project was done after the boards of class X to implement the laws of projectile motion and to supposedly make a game as cool as Angry Birds ;) This project started when making video games was my hobby. Later I realised that I didn't have enough time to finish it and when I did get time, I realised that my love for Web Developement had faded away :(
+This project was done after the boards of class X to implement the laws of projectile motion and to supposedly make a game as cool as Angry Birds ;) This project started when making video games was my hobby. Later I realised that I didn't have enough time to finish it and when I did get time, I realised that my love for Web Development had faded away :(
